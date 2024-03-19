@@ -1,0 +1,139 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/jquery/dist/jquery.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+
+
+<center><h3>Create Quiz</h3></center>
+
+<div class="container">
+    <form>
+        <div class="row justify-content-center">
+            <div class="col-md-6">
+                <div class="form-group">
+                    <label for="question">Question:</label>
+                    <input type="text" class="form-control" id="question" name="question" placeholder="Enter the question" />
+                </div>
+            </div>
+        </div>
+
+        <div class="row justify-content-center">
+            <div class="col-md-6">
+                <div class="form-group">
+                    <label for="answer1">Answer 1:</label>
+                    <input type="text" class="form-control" id="answer1" name="answer1" placeholder="Enter answer 1" />
+                </div>
+            </div>
+        </div>
+
+        <div class="row justify-content-center">
+            <div class="col-md-6">
+                <div class="form-group">
+                    <label for="answer2">Answer 2:</label>
+                    <input type="text" class="form-control" id="answer2" name="answer2" placeholder="Enter answer 2" />
+                </div>
+            </div>
+        </div>
+
+        <div class="row justify-content-center">
+            <div class="col-md-6">
+                <div class="form-group">
+                    <label for="answer3">Answer 3:</label>
+                    <input type="text" class="form-control" id="answer3" name="answer3" placeholder="Enter answer 3" />
+                </div>
+            </div>
+        </div>
+
+        <div class="row justify-content-center">
+            <div class="col-md-6">
+                <div class="form-group">
+                    <label for="answer4">Answer 4:</label>
+                    <input type="text" class="form-control" id="answer4" name="answer4" placeholder="Enter answer 4" />
+                </div>
+            </div>
+        </div>
+
+        <div class="row justify-content-center">
+            <div class="col-md-6">
+                <div class="form-group">
+                    <button type="button" class="btn btn-primary" onclick="addQuestion()">Create Question</button>
+                </div>
+            </div>
+        </div>
+
+        <div id="additionalQuestions">
+            <!-- Additional question fields will be added here -->
+        </div>
+
+        <div class="row justify-content-center">
+            <div class="col-md-6">
+                <div class="form-group">
+                    <button type="button" class="btn btn-success" onclick="submitQuiz()">Submit Quiz</button>
+                </div>
+            </div>
+        </div>
+    </form>
+</div>
+
+<script>
+    var questionCount = 1;
+
+    function addQuestion() {
+        questionCount++;
+
+        var newQuestionHtml = `
+            <div class="row justify-content-center">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label for="question${questionCount}">Question ${questionCount}:</label>
+                        <input type="text" class="form-control" id="question${questionCount}" name="question${questionCount}" placeholder="Enter question ${questionCount}" />
+                    </div>
+                </div>
+            </div>
+            <div class="row justify-content-center">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label for="answer${questionCount}1">Answer 1:</label>
+                        <input type="text" class="form-control" id="answer${questionCount}1" name="answer${questionCount}1" placeholder="Enter answer 1" />
+                    </div>
+                </div>
+            </div>
+            <div class="row justify-content-center">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label for="answer${questionCount}2">Answer 2:</label>
+                        <input type="text" class="form-control" id="answer${questionCount}2" name="answer${questionCount}2" placeholder="Enter answer 2" />
+                    </div>
+                </div>
+            </div>
+            <div class="row justify-content-center">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label for="answer${questionCount}3">Answer 3:</label>
+                        <input type="text" class="form-control" id="answer${questionCount}3" name="answer${questionCount}3" placeholder="Enter answer 3" />
+                    </div>
+                </div>
+            </div>
+            <div class="row justify-content-center">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label for="answer${questionCount}4">Answer 4:</label>
+                        <input type="text" class="form-control" id="answer${questionCount}4" name="answer${questionCount}4" placeholder="Enter answer 4" />
+                    </div>
+                </div>
+            </div>
+        `;
+
+        $('#additionalQuestions').append(newQuestionHtml);
+    }
+
+    function submitQuiz() {
+        // Logic to submit the quiz data
+        alert('Quiz submitted!');
+    }
+</script>

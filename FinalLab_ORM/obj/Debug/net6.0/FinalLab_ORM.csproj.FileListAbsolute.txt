@@ -1,0 +1,731 @@
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\appsettings.Development.json
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\appsettings.json
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\FinalLab_ORM.staticwebassets.runtime.json
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\FinalLab_ORM.exe
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\FinalLab_ORM.deps.json
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\FinalLab_ORM.runtimeconfig.json
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\FinalLab_ORM.dll
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\FinalLab_ORM.pdb
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Azure.Core.dll
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Azure.Identity.dll
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\System.Memory.Data.dll
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Entities.dll
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\EntityService.dll
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Entities.pdb
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\EntityService.pdb
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.csproj.AssemblyReference.cache
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.GeneratedMSBuildEditorConfig.editorconfig
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.AssemblyInfoInputs.cache
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.AssemblyInfo.cs
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.csproj.CoreCompileInputs.cache
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.MvcApplicationPartsAssemblyInfo.cache
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.RazorAssemblyInfo.cache
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.RazorAssemblyInfo.cs
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\staticwebassets.build.json
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\staticwebassets.development.json
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\staticwebassets\msbuild.FinalLab_ORM.Microsoft.AspNetCore.StaticWebAssets.props
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\staticwebassets\msbuild.build.FinalLab_ORM.props
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FinalLab_ORM.props
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FinalLab_ORM.props
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\staticwebassets.pack.json
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\scopedcss\bundle\FinalLab_ORM.styles.css
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\scopedcss\projectbundle\FinalLab_ORM.bundle.scp.css
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\FinalLab.E5B7677A.Up2Date
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.dll
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\refint\FinalLab_ORM.dll
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.pdb
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.genruntimeconfig.cache
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\ref\FinalLab_ORM.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\appsettings.json
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\FinalLab_ORM.staticwebassets.runtime.json
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\FinalLab_ORM.exe
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\FinalLab_ORM.deps.json
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\FinalLab_ORM.runtimeconfig.json
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\FinalLab_ORM.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\FinalLab_ORM.pdb
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Entities.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\EntityService.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Entities.pdb
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\EntityService.pdb
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.RazorAssemblyInfo.cache
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.RazorAssemblyInfo.cs
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\staticwebassets\msbuild.FinalLab_ORM.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\staticwebassets\msbuild.build.FinalLab_ORM.props
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FinalLab_ORM.props
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FinalLab_ORM.props
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\scopedcss\bundle\FinalLab_ORM.styles.css
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\scopedcss\projectbundle\FinalLab_ORM.bundle.scp.css
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\FinalLab.E5B7677A.Up2Date
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\refint\FinalLab_ORM.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.pdb
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\ref\FinalLab_ORM.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\appsettings.Development.json
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\appsettings.json
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\FinalLab_ORM.staticwebassets.runtime.json
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\FinalLab_ORM.exe
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\FinalLab_ORM.deps.json
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\FinalLab_ORM.runtimeconfig.json
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\FinalLab_ORM.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\FinalLab_ORM.pdb
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Azure.Core.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Azure.Identity.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Humanizer.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\System.CodeDom.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\System.Memory.Data.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\System.Text.Json.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Entities.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\EntityService.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Entities.pdb
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\EntityService.pdb
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.csproj.AssemblyReference.cache
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.GeneratedMSBuildEditorConfig.editorconfig
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.AssemblyInfoInputs.cache
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.AssemblyInfo.cs
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.csproj.CoreCompileInputs.cache
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.MvcApplicationPartsAssemblyInfo.cache
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.RazorAssemblyInfo.cache
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.RazorAssemblyInfo.cs
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\staticwebassets.build.json
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\staticwebassets.development.json
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\staticwebassets\msbuild.FinalLab_ORM.Microsoft.AspNetCore.StaticWebAssets.props
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\staticwebassets\msbuild.build.FinalLab_ORM.props
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FinalLab_ORM.props
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FinalLab_ORM.props
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\staticwebassets.pack.json
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\scopedcss\bundle\FinalLab_ORM.styles.css
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\scopedcss\projectbundle\FinalLab_ORM.bundle.scp.css
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.csproj.CopyComplete
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\refint\FinalLab_ORM.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.pdb
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.genruntimeconfig.cache
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\ref\FinalLab_ORM.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\appsettings.json
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\FinalLab_ORM.staticwebassets.runtime.json
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\FinalLab_ORM.exe
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\FinalLab_ORM.deps.json
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\FinalLab_ORM.runtimeconfig.json
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\FinalLab_ORM.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\FinalLab_ORM.pdb
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Entities.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\EntityService.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Entities.pdb
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\EntityService.pdb
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.RazorAssemblyInfo.cache
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.RazorAssemblyInfo.cs
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\staticwebassets\msbuild.FinalLab_ORM.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\staticwebassets\msbuild.build.FinalLab_ORM.props
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FinalLab_ORM.props
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FinalLab_ORM.props
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\scopedcss\bundle\FinalLab_ORM.styles.css
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\scopedcss\projectbundle\FinalLab_ORM.bundle.scp.css
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\FinalLab.E5B7677A.Up2Date
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\refint\FinalLab_ORM.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.pdb
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\ref\FinalLab_ORM.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\appsettings.Development.json
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\appsettings.json
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\FinalLab_ORM.staticwebassets.runtime.json
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\FinalLab_ORM.exe
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\FinalLab_ORM.deps.json
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\FinalLab_ORM.runtimeconfig.json
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\FinalLab_ORM.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\FinalLab_ORM.pdb
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Azure.Core.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Azure.Identity.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Humanizer.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\System.CodeDom.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\System.Memory.Data.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\System.Text.Json.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Entities.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\EntityService.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Entities.pdb
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\EntityService.pdb
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.csproj.AssemblyReference.cache
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.GeneratedMSBuildEditorConfig.editorconfig
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.AssemblyInfoInputs.cache
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.AssemblyInfo.cs
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.csproj.CoreCompileInputs.cache
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.MvcApplicationPartsAssemblyInfo.cache
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.RazorAssemblyInfo.cache
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.RazorAssemblyInfo.cs
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\staticwebassets.build.json
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\staticwebassets.development.json
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\staticwebassets\msbuild.FinalLab_ORM.Microsoft.AspNetCore.StaticWebAssets.props
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\staticwebassets\msbuild.build.FinalLab_ORM.props
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FinalLab_ORM.props
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FinalLab_ORM.props
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\staticwebassets.pack.json
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\scopedcss\bundle\FinalLab_ORM.styles.css
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\scopedcss\projectbundle\FinalLab_ORM.bundle.scp.css
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.csproj.CopyComplete
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\refint\FinalLab_ORM.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.pdb
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.genruntimeconfig.cache
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\ref\FinalLab_ORM.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.RazorAssemblyInfo.cache
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.RazorAssemblyInfo.cs
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\refint\FinalLab_ORM.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.pdb
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\appsettings.json
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\FinalLab_ORM.staticwebassets.runtime.json
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\FinalLab_ORM.exe
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\FinalLab_ORM.deps.json
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\FinalLab_ORM.runtimeconfig.json
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\FinalLab_ORM.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\FinalLab_ORM.pdb
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Entities.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\EntityService.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\Entities.pdb
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\bin\Debug\net6.0\EntityService.pdb
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\staticwebassets\msbuild.FinalLab_ORM.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\staticwebassets\msbuild.build.FinalLab_ORM.props
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FinalLab_ORM.props
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FinalLab_ORM.props
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\scopedcss\bundle\FinalLab_ORM.styles.css
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\scopedcss\projectbundle\FinalLab_ORM.bundle.scp.css
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\FinalLab.E5B7677A.Up2Date
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\FinalLab_ORM\obj\Debug\net6.0\ref\FinalLab_ORM.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\appsettings.Development.json
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\appsettings.json
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\FinalLab_ORM.staticwebassets.runtime.json
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\FinalLab_ORM.exe
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\FinalLab_ORM.deps.json
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\FinalLab_ORM.runtimeconfig.json
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\FinalLab_ORM.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\FinalLab_ORM.pdb
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\Azure.Core.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\Azure.Identity.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\Humanizer.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\System.CodeDom.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\System.Memory.Data.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\System.Text.Json.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\Entities.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\EntityService.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\Entities.pdb
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\EntityService.pdb
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.csproj.AssemblyReference.cache
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.GeneratedMSBuildEditorConfig.editorconfig
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.AssemblyInfoInputs.cache
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.AssemblyInfo.cs
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.csproj.CoreCompileInputs.cache
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.MvcApplicationPartsAssemblyInfo.cache
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.RazorAssemblyInfo.cache
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.RazorAssemblyInfo.cs
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\obj\Debug\net6.0\staticwebassets.build.json
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\obj\Debug\net6.0\staticwebassets.development.json
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\obj\Debug\net6.0\staticwebassets\msbuild.FinalLab_ORM.Microsoft.AspNetCore.StaticWebAssets.props
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\obj\Debug\net6.0\staticwebassets\msbuild.build.FinalLab_ORM.props
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FinalLab_ORM.props
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FinalLab_ORM.props
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\obj\Debug\net6.0\staticwebassets.pack.json
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\obj\Debug\net6.0\scopedcss\bundle\FinalLab_ORM.styles.css
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\obj\Debug\net6.0\scopedcss\projectbundle\FinalLab_ORM.bundle.scp.css
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.csproj.CopyComplete
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\obj\Debug\net6.0\refint\FinalLab_ORM.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.pdb
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.genruntimeconfig.cache
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\FinalLab_ORM\obj\Debug\net6.0\ref\FinalLab_ORM.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.RazorAssemblyInfo.cache
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.RazorAssemblyInfo.cs
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\obj\Debug\net6.0\refint\FinalLab_ORM.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.pdb
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\appsettings.json
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\FinalLab_ORM.staticwebassets.runtime.json
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\FinalLab_ORM.exe
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\FinalLab_ORM.deps.json
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\FinalLab_ORM.runtimeconfig.json
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\FinalLab_ORM.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\FinalLab_ORM.pdb
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\Entities.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\EntityService.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\Entities.pdb
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\bin\Debug\net6.0\EntityService.pdb
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\obj\Debug\net6.0\staticwebassets\msbuild.FinalLab_ORM.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\obj\Debug\net6.0\staticwebassets\msbuild.build.FinalLab_ORM.props
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FinalLab_ORM.props
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FinalLab_ORM.props
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\obj\Debug\net6.0\scopedcss\bundle\FinalLab_ORM.styles.css
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\obj\Debug\net6.0\scopedcss\projectbundle\FinalLab_ORM.bundle.scp.css
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\obj\Debug\net6.0\FinalLab.E5B7677A.Up2Date
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\obj\Debug\net6.0\FinalLab_ORM.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\FinalLab_ORM\obj\Debug\net6.0\ref\FinalLab_ORM.dll

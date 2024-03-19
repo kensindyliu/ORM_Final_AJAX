@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\FinalLab_ORM.props" />
+</Project>

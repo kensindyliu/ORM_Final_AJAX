@@ -1,0 +1,61 @@
+﻿@model Entities.ViewModels.QuizVM
+
+@* <h1>User: @Model.CurrentUser.UserName is taking test.</h1> *@
+<center><h3 class="display-4"><span class="fw-bolder">@Model.CurrentUser.UserName</span> is taking the Quiz</h3></center>
+
+<br />
+@{
+    var count = 1;
+}
+@foreach (var qavm in Model.TestResults)
+{
+    <div id="Q@(count)">
+        <h5>@count - @qavm.QuestionContent</h5>
+        <div>
+            @foreach (var answer in qavm.Answers)
+            {
+                <input class="answerOption" type="radio" id="chk-@(qavm.QuestionID)-@(answer.AnswerID)" name="radio@(qavm.QuestionID)" @(answer.AnswerID == qavm.UserAnswerID ? "checked" : "")>
+                <label for="chk-@(qavm.QuestionID)-@(answer.AnswerID)">@answer.AnswerOption</label>
+                <br>
+            }
+        </div>
+    </div>
+    <br />
+    count++;
+}
+
+<center><button type="button" class="btn btn-primary mb-4" @* style="width: 100px;"  *@onclick="Submit(@(Model.CurrentUser.UserID))">Submit Quiz</button></center>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script type="text/javascript">
+    function Submit(userID) {
+        console.log(1);
+        var answerOptions = document.querySelectorAll("input[type='radio']:checked");
+        var testResults = [];
+        answerOptions.forEach(function (answerOption) {
+            var optionID = answerOption.id;
+            var questionInfo = optionID.split('-');
+            var objTestResult = {
+                UserID: userID,
+                QuestionID: questionInfo[1],
+                AnswerID: questionInfo[2]
+            };
+            testResults.push(objTestResult);
+        });
+
+        $.ajax({
+            url: "/Quiz/UpdateTestResult",
+            data: JSON.stringify(testResults), 
+            type: "POST",
+            contentType: "application/json",
+            dataType: "json",
+            success: function (response) {
+                alert(response.message);
+                window.location.href = "/Home/Index/";
+            },
+            error: function (errormessage) {
+                alert(errormessage.responseText);
+            }
+        });
+    }
+</script>

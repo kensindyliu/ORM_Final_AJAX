@@ -1,0 +1,120 @@
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\EntityService\bin\Debug\net6.0\EntityService.deps.json
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\EntityService\bin\Debug\net6.0\EntityService.dll
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\EntityService\bin\Debug\net6.0\EntityService.pdb
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\EntityService\bin\Debug\net6.0\Entities.dll
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\EntityService\bin\Debug\net6.0\Entities.pdb
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\EntityService\obj\Debug\net6.0\EntityService.csproj.AssemblyReference.cache
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\EntityService\obj\Debug\net6.0\EntityService.GeneratedMSBuildEditorConfig.editorconfig
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\EntityService\obj\Debug\net6.0\EntityService.AssemblyInfoInputs.cache
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\EntityService\obj\Debug\net6.0\EntityService.AssemblyInfo.cs
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\EntityService\obj\Debug\net6.0\EntityService.csproj.CoreCompileInputs.cache
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\EntityService\obj\Debug\net6.0\EntitySe.5BF3A481.Up2Date
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\EntityService\obj\Debug\net6.0\EntityService.dll
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\EntityService\obj\Debug\net6.0\refint\EntityService.dll
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\EntityService\obj\Debug\net6.0\EntityService.pdb
+D:\KenVS\FinalLab_ORM\FinalLab_ORM\EntityService\obj\Debug\net6.0\ref\EntityService.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\EntityService\bin\Debug\net6.0\EntityService.deps.json
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\EntityService\bin\Debug\net6.0\EntityService.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\EntityService\bin\Debug\net6.0\EntityService.pdb
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\EntityService\bin\Debug\net6.0\Entities.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\EntityService\bin\Debug\net6.0\Entities.pdb
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\EntityService\obj\Debug\net6.0\EntityService.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\EntityService\obj\Debug\net6.0\EntityService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\EntityService\obj\Debug\net6.0\EntityService.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\EntityService\obj\Debug\net6.0\EntityService.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\EntityService\obj\Debug\net6.0\EntityService.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\EntityService\obj\Debug\net6.0\EntitySe.5BF3A481.Up2Date
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\EntityService\obj\Debug\net6.0\EntityService.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\EntityService\obj\Debug\net6.0\refint\EntityService.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\EntityService\obj\Debug\net6.0\EntityService.pdb
+C:\Users\Administrator\Desktop\FinalLab_ORM\FinalLab_ORM\EntityService\obj\Debug\net6.0\ref\EntityService.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\EntityService\bin\Debug\net6.0\EntityService.deps.json
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\EntityService\bin\Debug\net6.0\EntityService.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\EntityService\bin\Debug\net6.0\EntityService.pdb
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\EntityService\bin\Debug\net6.0\Entities.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\EntityService\bin\Debug\net6.0\Entities.pdb
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\EntityService\obj\Debug\net6.0\EntityService.csproj.AssemblyReference.cache
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\EntityService\obj\Debug\net6.0\EntityService.GeneratedMSBuildEditorConfig.editorconfig
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\EntityService\obj\Debug\net6.0\EntityService.AssemblyInfoInputs.cache
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\EntityService\obj\Debug\net6.0\EntityService.AssemblyInfo.cs
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\EntityService\obj\Debug\net6.0\EntityService.csproj.CoreCompileInputs.cache
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\EntityService\obj\Debug\net6.0\EntityService.csproj.CopyComplete
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\EntityService\obj\Debug\net6.0\EntityService.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\EntityService\obj\Debug\net6.0\refint\EntityService.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\EntityService\obj\Debug\net6.0\EntityService.pdb
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM\EntityService\obj\Debug\net6.0\ref\EntityService.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\EntityService\bin\Debug\net6.0\EntityService.deps.json
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\EntityService\bin\Debug\net6.0\EntityService.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\EntityService\bin\Debug\net6.0\EntityService.pdb
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\EntityService\bin\Debug\net6.0\Entities.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\EntityService\bin\Debug\net6.0\Entities.pdb
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\EntityService\obj\Debug\net6.0\EntityService.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\EntityService\obj\Debug\net6.0\EntityService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\EntityService\obj\Debug\net6.0\EntityService.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\EntityService\obj\Debug\net6.0\EntityService.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\EntityService\obj\Debug\net6.0\EntityService.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\EntityService\obj\Debug\net6.0\EntitySe.5BF3A481.Up2Date
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\EntityService\obj\Debug\net6.0\EntityService.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\EntityService\obj\Debug\net6.0\refint\EntityService.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\EntityService\obj\Debug\net6.0\EntityService.pdb
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\FinalLab_ORM\EntityService\obj\Debug\net6.0\ref\EntityService.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\EntityService\bin\Debug\net6.0\EntityService.deps.json
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\EntityService\bin\Debug\net6.0\EntityService.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\EntityService\bin\Debug\net6.0\EntityService.pdb
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\EntityService\bin\Debug\net6.0\Entities.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\EntityService\bin\Debug\net6.0\Entities.pdb
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\EntityService\obj\Debug\net6.0\EntityService.csproj.AssemblyReference.cache
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\EntityService\obj\Debug\net6.0\EntityService.GeneratedMSBuildEditorConfig.editorconfig
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\EntityService\obj\Debug\net6.0\EntityService.AssemblyInfoInputs.cache
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\EntityService\obj\Debug\net6.0\EntityService.AssemblyInfo.cs
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\EntityService\obj\Debug\net6.0\EntityService.csproj.CoreCompileInputs.cache
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\EntityService\obj\Debug\net6.0\EntityService.csproj.CopyComplete
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\EntityService\obj\Debug\net6.0\EntityService.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\EntityService\obj\Debug\net6.0\refint\EntityService.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\EntityService\obj\Debug\net6.0\EntityService.pdb
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\EntityService\obj\Debug\net6.0\ref\EntityService.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\EntityService\bin\Debug\net6.0\EntityService.deps.json
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\EntityService\bin\Debug\net6.0\EntityService.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\EntityService\bin\Debug\net6.0\EntityService.pdb
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\EntityService\bin\Debug\net6.0\Entities.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\EntityService\bin\Debug\net6.0\Entities.pdb
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\EntityService\obj\Debug\net6.0\EntityService.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\EntityService\obj\Debug\net6.0\EntityService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\EntityService\obj\Debug\net6.0\EntityService.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\EntityService\obj\Debug\net6.0\EntityService.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\EntityService\obj\Debug\net6.0\EntityService.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\EntityService\obj\Debug\net6.0\EntitySe.5BF3A481.Up2Date
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\EntityService\obj\Debug\net6.0\EntityService.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\EntityService\obj\Debug\net6.0\refint\EntityService.dll
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\EntityService\obj\Debug\net6.0\EntityService.pdb
+C:\Users\Administrator\Desktop\WellPart-FinalLab_ORM\WellPart-FinalLab_ORM\FinalLab_ORM\EntityService\obj\Debug\net6.0\ref\EntityService.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\EntityService\bin\Debug\net6.0\EntityService.deps.json
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\EntityService\bin\Debug\net6.0\EntityService.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\EntityService\bin\Debug\net6.0\EntityService.pdb
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\EntityService\bin\Debug\net6.0\Entities.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\EntityService\bin\Debug\net6.0\Entities.pdb
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\EntityService\obj\Debug\net6.0\EntityService.csproj.AssemblyReference.cache
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\EntityService\obj\Debug\net6.0\EntityService.GeneratedMSBuildEditorConfig.editorconfig
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\EntityService\obj\Debug\net6.0\EntityService.AssemblyInfoInputs.cache
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\EntityService\obj\Debug\net6.0\EntityService.AssemblyInfo.cs
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\EntityService\obj\Debug\net6.0\EntityService.csproj.CoreCompileInputs.cache
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\EntityService\obj\Debug\net6.0\EntityService.csproj.CopyComplete
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\EntityService\obj\Debug\net6.0\EntityService.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\EntityService\obj\Debug\net6.0\refint\EntityService.dll
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\EntityService\obj\Debug\net6.0\EntityService.pdb
+E:\MITT Proyects\C#\Advanced Database and ORM Concepts\LABS\Final Project\FinalLab_ORM5\EntityService\obj\Debug\net6.0\ref\EntityService.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\EntityService\bin\Debug\net6.0\EntityService.deps.json
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\EntityService\bin\Debug\net6.0\EntityService.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\EntityService\bin\Debug\net6.0\EntityService.pdb
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\EntityService\bin\Debug\net6.0\Entities.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\EntityService\bin\Debug\net6.0\Entities.pdb
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\EntityService\obj\Debug\net6.0\EntityService.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\EntityService\obj\Debug\net6.0\EntityService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\EntityService\obj\Debug\net6.0\EntityService.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\EntityService\obj\Debug\net6.0\EntityService.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\EntityService\obj\Debug\net6.0\EntityService.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\EntityService\obj\Debug\net6.0\EntitySe.5BF3A481.Up2Date
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\EntityService\obj\Debug\net6.0\EntityService.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\EntityService\obj\Debug\net6.0\refint\EntityService.dll
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\EntityService\obj\Debug\net6.0\EntityService.pdb
+C:\Users\Administrator\Desktop\FinalLab_ORM5\FinalLab_ORM5\EntityService\obj\Debug\net6.0\ref\EntityService.dll
